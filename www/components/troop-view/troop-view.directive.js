@@ -7,8 +7,6 @@
 
   function troopView () {
 
-    debugger;
-
     return {
       restrict: 'E',
       scope: {},
